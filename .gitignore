@@ -3,3 +3,5 @@ src/db/
 src/app/.eslintcache
 src/db/
 src/app/.eslintcache
+node_modules/
+src/app/node_modules/
